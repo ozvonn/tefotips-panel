@@ -1,0 +1,1 @@
+console.log('TefoTips Panel çalışıyor');
